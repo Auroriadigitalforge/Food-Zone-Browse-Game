@@ -81,7 +81,7 @@ Currently iterating and improving based on feedback.
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 Solo developer.
 Focused on building strong fundamentals in game development and interactive systems.
