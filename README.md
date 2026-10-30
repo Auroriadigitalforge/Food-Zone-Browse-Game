@@ -1,4 +1,4 @@
-# 🍔 Food Zone – Browser-Based Food Serving Game
+# Food Zone – Browser-Based Food Serving Game
 
 Food Zone is a casual browser-based food serving game developed using Unity 6 and deployed as a WebGL build.
 
@@ -6,7 +6,7 @@ This project was created as part of my game development portfolio to improve my 
 
 ---
 
-## 🎮 Game Overview
+## Game Overview
 
 In Food Zone, players serve food to customers within a limited time. As levels progress, the number of customers increases, gameplay becomes more intense, and new tools are introduced to increase difficulty.
 
@@ -18,7 +18,7 @@ The game focuses on:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - Engine: Unity 6
 - Platform: WebGL (Browser)
@@ -27,7 +27,7 @@ The game focuses on:
 
 ---
 
-## 📈 Core Features
+## Core Features
 
 - Level-based progression
 - 120-second starting timer (increases with levels)
@@ -38,7 +38,7 @@ The game focuses on:
 
 ---
 
-## 💡 Design Decisions
+## Design Decisions
 
 - Ad integration was initially implemented using Google Ads.
 - Ads were removed in the current version to prevent UI blocking and improve gameplay experience.
