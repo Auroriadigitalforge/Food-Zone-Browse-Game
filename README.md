@@ -46,7 +46,7 @@ The game focuses on:
 
 ---
 
-## 🎯 Purpose of This Project
+## Purpose of This Project
 
 This project was built for:
 - Portfolio development
@@ -56,7 +56,7 @@ This project was built for:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Improved difficulty curve balancing
 - Combo & bonus system
@@ -67,14 +67,14 @@ This project was built for:
 
 ---
 
-## 🌐 Play the Game
+## Play the Game
 
 Play here:
 https://auroria-digital-forge.itch.io/food-zone
 
 ---
 
-## 📌 Status
+## Status
 
 Submitted to Poki for review.
 Currently iterating and improving based on feedback.
